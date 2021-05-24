@@ -1,7 +1,6 @@
 import sys
 import numpy as np
 import pandas as pd
-import scipy
 import librosa
 
 def extract_all_features(add_to_feature_file_name, sample_numb, path_to_samples):
